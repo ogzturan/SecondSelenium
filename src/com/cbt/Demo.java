@@ -11,7 +11,7 @@ public class Demo {
 				"/Users/malvo/Documents/selenium dependencies/drivers/geckodriver");
 		
 		WebDriver driver = new FirefoxDriver();
-		driver.get("https://turkishcenterboston.org/");
+		driver.get("https://google.com");
 		
 	}
 
